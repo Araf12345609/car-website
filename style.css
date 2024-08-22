@@ -44,6 +44,7 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 20px 10px;
+    color: #fff;
 }
 #menu-icon{
     font-size: 24px;
@@ -580,6 +581,15 @@ margin-bottom: 10px;
             }
 
         }
+    @media (max-width: 505px){
+            .home .btn {
+                padding: 5px 10px;
+                font-size: 10px;
+                margin-top: 5px;
+                
+            }
+        }
+    
 
     
      
